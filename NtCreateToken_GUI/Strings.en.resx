@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SidUnknown" xml:space="preserve">
+    <value>(Unknown)</value>
+  </data>
+  <data name="ExecutableFile" xml:space="preserve">
+    <value>Executable Files</value>
+  </data>
+  <data name="AllFiles" xml:space="preserve">
+    <value>All Files</value>
+  </data>
+  <data name="ExecutableTitle" xml:space="preserve">
+    <value>Select An Excutable File</value>
+  </data>
+  <data name="BeforeRun1" xml:space="preserve">
+    <value>The following command is about to run:</value>
+  </data>
+  <data name="BeforeRun2" xml:space="preserve">
+    <value>Are you sure you want to continue? </value>
+  </data>
+  <data name="BeforeRun3" xml:space="preserve">
+    <value>Yes: Confirm to run. </value>
+  </data>
+  <data name="BeforeRun4" xml:space="preserve">
+    <value>No: Write the command line to the clipboard and cancel the run. </value>
+  </data>
+  <data name="BeforeRun5" xml:space="preserve">
+    <value>Cancel: Cancel the run and do nothing.</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Warning</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>Success</value>
+  </data>
+  <data name="FailToRun" xml:space="preserve">
+    <value>Failed to run!</value>
+  </data>
+  <data name="AdminRun" xml:space="preserve">
+    <value>Please run with administrator privileges!</value>
+  </data>
+  <data name="SuccessRun" xml:space="preserve">
+    <value>Run Successfully!</value>
+  </data>
+  <data name="CheckArg" xml:space="preserve">
+    <value>Please check the parameter settings.</value>
+  </data>
+  <data name="FileMissing" xml:space="preserve">
+    <value>Cannot find the "NtCreateToken.exe"!</value>
+  </data>
+  <data name="CopyCSucc" xml:space="preserve">
+    <value>The command line has been successfully copied to the clipboard!</value>
+  </data>
+  <data name="FailToCopyC" xml:space="preserve">
+    <value>Unable to copy command line to clipboard!</value>
+  </data>
+  <data name="NTCTP" xml:space="preserve">
+    <value>NtCreateToken Configuration Files</value>
+  </data>
+  <data name="ChooseNTCTP" xml:space="preserve">
+    <value>Select an NtCreateToken Configuration File</value>
+  </data>
+  <data name="ExportP" xml:space="preserve">
+    <value>Export NtCreateToken Configuration File</value>
+  </data>
+  <data name="ExportSuc" xml:space="preserve">
+    <value>Export configuration successful!</value>
+  </data>
+  <data name="ImportSuc" xml:space="preserve">
+    <value>Import configuration successful!</value>
+  </data>
+  <data name="ImportFail" xml:space="preserve">
+    <value>Failed to import configuration!</value>
+  </data>
+  <data name="SeCreateTokenPrivilege" xml:space="preserve">
+    <value>Create a token object</value>
+  </data>
+  <data name="SeAssignPrimaryTokenPrivilege" xml:space="preserve">
+    <value>Replace a process-level token</value>
+  </data>
+  <data name="SeLockMemoryPrivilege" xml:space="preserve">
+    <value>Lock pages in memory</value>
+  </data>
+  <data name="SeIncreaseQuotaPrivilege" xml:space="preserve">
+    <value>Adjust memory quotas for a process</value>
+  </data>
+  <data name="SeMachineAccountPrivilege" xml:space="preserve">
+    <value>Add workstations to domain</value>
+  </data>
+  <data name="SeTcbPrivilege" xml:space="preserve">
+    <value>Act as part of the operating system</value>
+  </data>
+  <data name="SeSecurityPrivilege" xml:space="preserve">
+    <value>Manage auditing and security log</value>
+  </data>
+  <data name="SeTakeOwnershipPrivilege" xml:space="preserve">
+    <value>Take ownership of files or other objects</value>
+  </data>
+  <data name="SeLoadDriverPrivilege" xml:space="preserve">
+    <value>Load and unload device drivers</value>
+  </data>
+  <data name="SeSystemProfilePrivilege" xml:space="preserve">
+    <value>Profile system performance</value>
+  </data>
+  <data name="SeSystemtimePrivilege" xml:space="preserve">
+    <value>Change the system time</value>
+  </data>
+  <data name="SeProfileSingleProcessPrivilege" xml:space="preserve">
+    <value>Profile single process</value>
+  </data>
+  <data name="SeIncreaseBasePriorityPrivilege" xml:space="preserve">
+    <value>Increase scheduling priority</value>
+  </data>
+  <data name="SeCreatePagefilePrivilege" xml:space="preserve">
+    <value>Create a pagefile</value>
+  </data>
+  <data name="SeCreatePermanentPrivilege" xml:space="preserve">
+    <value>Create permanent shared objects</value>
+  </data>
+  <data name="SeBackupPrivilege" xml:space="preserve">
+    <value>Back up files and directories</value>
+  </data>
+  <data name="SeRestorePrivilege" xml:space="preserve">
+    <value>Restore files and directories</value>
+  </data>
+  <data name="SeShutdownPrivilege" xml:space="preserve">
+    <value>Shut down the system</value>
+  </data>
+  <data name="SeDebugPrivilege" xml:space="preserve">
+    <value>Debug programs</value>
+  </data>
+  <data name="SeAuditPrivilege" xml:space="preserve">
+    <value>Generate security audits</value>
+  </data>
+  <data name="SeSystemEnvironmentPrivilege" xml:space="preserve">
+    <value>Modify firmware environment values</value>
+  </data>
+  <data name="SeChangeNotifyPrivilege" xml:space="preserve">
+    <value>Bypass traverse checking</value>
+  </data>
+  <data name="SeRemoteShutdownPrivilege" xml:space="preserve">
+    <value>Force shutdown from a remote system</value>
+  </data>
+  <data name="SeUndockPrivilege" xml:space="preserve">
+    <value>Remove computer from docking station</value>
+  </data>
+  <data name="SeSyncAgentPrivilege" xml:space="preserve">
+    <value>Synchronize directory service data</value>
+  </data>
+  <data name="SeEnableDelegationPrivilege" xml:space="preserve">
+    <value>Enable computer and user accounts to be trusted for delegation</value>
+  </data>
+  <data name="SeManageVolumePrivilege" xml:space="preserve">
+    <value>Perform volume maintenance tasks</value>
+  </data>
+  <data name="SeImpersonatePrivilege" xml:space="preserve">
+    <value>Impersonate a client after authentication</value>
+  </data>
+  <data name="SeCreateGlobalPrivilege" xml:space="preserve">
+    <value>Create global objects</value>
+  </data>
+  <data name="SeTrustedCredManAccessPrivilege" xml:space="preserve">
+    <value>Access Credential Manager as a trusted caller</value>
+  </data>
+  <data name="SeRelabelPrivilege" xml:space="preserve">
+    <value>Modify an object label</value>
+  </data>
+  <data name="SeIncreaseWorkingSetPrivilege" xml:space="preserve">
+    <value>Increase a process working set</value>
+  </data>
+  <data name="SeTimeZonePrivilege" xml:space="preserve">
+    <value>Change the time zone</value>
+  </data>
+  <data name="SeCreateSymbolicLinkPrivilege" xml:space="preserve">
+    <value>Create symbolic links</value>
+  </data>
+  <data name="SeDelegateSessionUserImpersonatePrivilege" xml:space="preserve">
+    <value>Impersonate other users</value>
+  </data>
+</root>

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u9EBB\u71A0\u6D0B\\Desktop\\NtCreateToken\\NtCreateToken_GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E63EABD-4F10-4371-B806-A471F7E8E31A}|NtCreateToken_GUI.csproj|c:\\users\\\u9EBB\u71A0\u6D0B\\desktop\\ntcreatetoken\\ntcreatetoken_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E63EABD-4F10-4371-B806-A471F7E8E31A}|NtCreateToken_GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E63EABD-4F10-4371-B806-A471F7E8E31A}|NtCreateToken_GUI.csproj|c:\\users\\\u9EBB\u71A0\u6D0B\\desktop\\ntcreatetoken\\ntcreatetoken_gui\\addgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E63EABD-4F10-4371-B806-A471F7E8E31A}|NtCreateToken_GUI.csproj|solutionrelative:addgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E63EABD-4F10-4371-B806-A471F7E8E31A}|NtCreateToken_GUI.csproj|C:\\Users\\\u9EBB\u71A0\u6D0B\\Desktop\\NtCreateToken\\NtCreateToken_GUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E63EABD-4F10-4371-B806-A471F7E8E31A}|NtCreateToken_GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E63EABD-4F10-4371-B806-A471F7E8E31A}|NtCreateToken_GUI.csproj|c:\\users\\\u9EBB\u71A0\u6D0B\\desktop\\ntcreatetoken\\ntcreatetoken_gui\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2E63EABD-4F10-4371-B806-A471F7E8E31A}|NtCreateToken_GUI.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddGroup.cs",
+              "DocumentMoniker": "C:\\Users\\\u9EBB\u71A0\u6D0B\\Desktop\\NtCreateToken\\NtCreateToken_GUI\\AddGroup.cs",
+              "RelativeDocumentMoniker": "AddGroup.cs",
+              "ToolTip": "C:\\Users\\\u9EBB\u71A0\u6D0B\\Desktop\\NtCreateToken\\NtCreateToken_GUI\\AddGroup.cs",
+              "RelativeToolTip": "AddGroup.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T05:15:26.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u9EBB\u71A0\u6D0B\\Desktop\\NtCreateToken\\NtCreateToken_GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u9EBB\u71A0\u6D0B\\Desktop\\NtCreateToken\\NtCreateToken_GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:55:36.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\\u9EBB\u71A0\u6D0B\\Desktop\\NtCreateToken\\NtCreateToken_GUI\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "C:\\Users\\\u9EBB\u71A0\u6D0B\\Desktop\\NtCreateToken\\NtCreateToken_GUI\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2026-01-02T04:14:33.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u9EBB\u71A0\u6D0B\\Desktop\\NtCreateToken\\NtCreateToken_GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u9EBB\u71A0\u6D0B\\Desktop\\NtCreateToken\\NtCreateToken_GUI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAowEIBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:41:07.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
