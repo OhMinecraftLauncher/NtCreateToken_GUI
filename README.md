@@ -82,6 +82,7 @@ The interface allows you to:
 - Choose user SID from a list or input custom SID  
 - Select privileges and mark them as enabled/disabled  
 - Add groups with SID and attribute flags
+
 The GUI version requires at least [.NET 6.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
 
 直接运行 `NtCreateToken_GUI.exe` 即可。  
@@ -89,7 +90,8 @@ The GUI version requires at least [.NET 6.0](https://dotnet.microsoft.com/zh-cn/
 - 输入要执行的命令行  
 - 从列表中选择用户 SID 或输入自定义 SID  
 - 选择权限并标记为启用/禁用  
-- 添加组（指定 SID 和属性标志）  
+- 添加组（指定 SID 和属性标志）
+
 GUI 版本要求至少 [.NET 6.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
 
 ---
